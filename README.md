@@ -66,10 +66,8 @@ UKÁZKA VÝSTUPU:
         - soubor se seznamem knihoven, které je třeba instalovat pro správný chod kódu.
     3. volebni_scraping.py
         - soubor s hlavním kódem projektu + informacemi o autorce
-    4. pro_lektora.py
-        - soubor obsahující kód, kterým jsem získala data pro jeden z pomocných souborů (zůstává zde pouze na ukázku)
-    5. SLOŽKA volebni_data
+    4. SLOŽKA volebni_data
         - složka určená k ukládání scrapovaných dat
-    6. SLOŽKA pomocné soubory:
+    5. SLOŽKA pomocné soubory:
         -   statove_kody_http.json - soubor obsahuje stavové kódy response HTML včetně popisu (použito v hlavním kódu)
         -   zajimavosti.txt - soubor obsahuje zajímavosti z daných voleb (použito v hlavním kódu)
